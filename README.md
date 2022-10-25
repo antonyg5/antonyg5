@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![@antonyg5's Holopin board](https://holopin.me/antonyg5)](https://holopin.io/@antonyg5)
 
-<div><a href="https://github.com/antonyg5"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonyg5&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonyg5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
+<center><div><a href="https://github.com/antonyg5"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonyg5&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonyg5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div></center>
 
